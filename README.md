@@ -1,14 +1,19 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+ <img alt="Shows a fantasy black and white landscape with a large moon rising from the mountains with galaxies in the sky." src="https://pixabay.com/photos/galaxy-star-infinity-cosmos-dark-3608029/">
 </picture>
 
-### Hi there 🪲
+### Hi there, this is Mika 🪲
 
 I'm a Junior Software Developer with a passion for art, education and sustainability.
 
+##Technologies and Frameworks
 
+---
+
+ - 📖 currently learning: AWS, TypeScript
+ - 🌀 looking to collaborate on MERN stack applictions
+ - 🤖 interested in learning more about AI
+ - 🥬 fun facts: I'm an artist, cat parent and have worked as a farmhand
 
 
 <!--
