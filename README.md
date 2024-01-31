@@ -8,10 +8,8 @@ I'm a Junior Software Developer with a passion for art, education and sustainabi
 
 ---
 About:
- - 📖 currently learning: AWS, TypeScript
  - 🌀 looking to collaborate on MERN stack applictions
- - 🤖 interested in learning more about AI
- - 🥬 fun facts: I'm an artist, cat parent and have worked as a farmhand
+ - 🤖 interested in learning more about AI + machine learning
 
 ## Technologies and Frameworks
 
